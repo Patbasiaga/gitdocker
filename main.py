@@ -2,4 +2,4 @@ import time
 
 while True:
     print("Hello Patryk")
-    time.sleep(12
+    time.sleep(12)
